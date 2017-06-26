@@ -21,8 +21,8 @@ Honours thesis: Characterisation of *Wolbachia*-associated genomic DNA methylati
 
 #### Bachelor of Science (Genetics & Ecology), The University of Queensland (2008-2010)
 
-## Publications (by date)
-
+Publications (by date)
+======
 **Gofton, A. W.**, H. P. Waudby, S. Petit, T. L. Greay, U. Ryan, & P. Irwin, **2017**. Detection and phylogenetic characterisation of novel *Anaplasma* and *Ehrlichia* species in *Amblyomma triguttatum* subsp. from four allopatric populations in Australia. **Ticks Tick-Borne Diseases**. *In Press*
 
 Nagaraj, V., L. Skillman, G. Ho, D. Li, & **A. W. Gofton, 2017**. Characterisation and comparason of bacterial communities on reverse osmaosis membranes of a full-scale desalination plant by bacterial 16S rRNA gene metabarcoding. **NPJ Biofilms & Microbes**. *In Press*.
