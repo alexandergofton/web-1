@@ -1,4 +1,3 @@
-# Alexander W. Gofton, PhD student
 
 Hi there! You've made it my website. I am a PhD student with the Vector and Water-Borne Pathogen Research Group  at Murdoch Univeristy, Perth [Link](http://www.murdoch.edu.au/Research-capabilities/Vector-and-Waterborne-Pathogens-Group/), under the supervision of Prof. Peter Irwin [Link](http://profiles.murdoch.edu.au/myprofile/peter-irwin/), and Prof. Una Ryan [Link](http://profiles.murdoch.edu.au/myprofile/una-ryan/). Throughout my **Bachelor of Science** at the **The University of Queensland (2008-10)**, I was interested in evolutionary biology and microbiology, and mentored A/Prof. Elizabeth McGraw [Link](http://vectorbiologygroup.com/people/), who supervised my **Honours in Genetics** at **Monash University (2011-12)** where I studied epigenetic interactions between the bacterial endosymbiont *Wolbachia pipientis* and its mosquito host *Aedes aegypti*.
 
@@ -9,6 +8,17 @@ My recent research has focused on using next-generation DNA barcoding technologi
 Moving forward, I am currently developing techniques to capture bacterial metagenomes from tick DNA samples. As you can imagine, tick DNA samples contain highly complex mixtures of DNA from the tick itself, its mammalian blood meal, commensal and endosymbiontic bacteria, and also potentially pathogenic bacteria that are of great interest but are often present in relativley low abundance.  Because eukaryotic genomes (ticks and mammals) are orders of magnitude larger than bacterial genomes, and the bacterial genomes of interest are present in low abundance in tick DNA samples, the sequencing the pathogen genomes in such samples is currently not feasable. I am currently developing protocols to enrich the microbial portion (or subtract the eukaryotic portion) of tick DNA samples to allow the sequencing of pathogen genomes from mixed tick DNA samples.
 
 I am also involved as a bioinformatician in other collaborative research programs, such as assessing the genetic variablility of *Cryptosporidium* spp. in humans, animals, and waste water, invetigating the genetic diverity of *Trypanosoma* sp. in native Australian wildlife, and characterising the bacterial communities in reverse-osmosis desalination membranes.
+
+## Education
+### Postgraduate
+#### PhD student, Murdoch University (2016-present)
+My doctoral research expolored the genetic diversity and epidemiology of unique Australian tick-borne potentially pathogenic bacteria. This work has involved the discovery and characterisation of seven new bacterial species (so far!), in the genera *Borrelia*, *Anaplasma*, *Ehrlichia*, and *Neoehrlichia*. We are known trying to resolve the epidemiology of these tick-borne bacteria, including establishing their marsupial wildife reserviours, tick-vectors, and whether they pose a health risk to people and animals. In addition I am developing techniques to sequence the metagenomes of these bacteria by selectivley enriching mixed tick DNA samples from microbes of interest.
+
+### Undergraduate
+#### Honours 1st Class in Genetics, Monash University (2011-2012)
+Honours thesis: Characterisation of *Wolbachia*-associated genomic DNA methylation changes in *Aedes aegypti*.
+
+#### Bachelor of Science (Genetics & Ecology), The University of Queensland (2008-2010)
 
 ## Publications (by date)
 
@@ -36,16 +46,7 @@ Miro, G., R. Checa, A. Paparini, N. Ortega, J. L. Gonzalez-Fraga, **A. W. Gofton
 
 Caragata, E. P., E. Rancès, L. M. Hedges, **A. W. Gofton**, K. N. Johnson, S. L. O'Neill, & E. A. McGraw, **2013**. Dietary Cholesterol Modulates Pathogen Blocking by *Wolbachia*. **PLOS Pathogens**. 9 (6).
 
-## Education
-### Postgraduate
-#### PhD student, Murdoch University (2016-present)
-My doctoral research expolored the genetic diversity and epidemiology of unique Australian tick-borne potentially pathogenic bacteria. This work has involved the discovery and characterisation of seven new bacterial species (so far!), in the genera *Borrelia*, *Anaplasma*, *Ehrlichia*, and *Neoehrlichia*. We are known trying to resolve the epidemiology of these tick-borne bacteria, including establishing their marsupial wildife reserviours, tick-vectors, and whether they pose a health risk to people and animals. In addition I am developing techniques to sequence the metagenomes of these bacteria by selectivley enriching mixed tick DNA samples from microbes of interest.
 
-### Undergraduate
-#### Honours 1st Class in Genetics, Monash University (2011-2012)
-Honours thesis: Characterisation of *Wolbachia*-associated genomic DNA methylation changes in *Aedes aegypti*.
-
-#### Bachelor of Science (Genetics & Ecology), The University of Queensland (2008-2010)
 
 
 
