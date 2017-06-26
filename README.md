@@ -9,7 +9,8 @@ Moving forward, I am currently developing techniques to capture bacterial metage
 
 I am also involved as a bioinformatician in other collaborative research programs, such as assessing the genetic variablility of *Cryptosporidium* spp. in humans, animals, and waste water, invetigating the genetic diverity of *Trypanosoma* sp. in native Australian wildlife, and characterising the bacterial communities in reverse-osmosis desalination membranes.
 
-## Education
+Education
+=======
 ### Postgraduate
 #### PhD student, Murdoch University (2016-present)
 My doctoral research expolored the genetic diversity and epidemiology of unique Australian tick-borne potentially pathogenic bacteria. This work has involved the discovery and characterisation of seven new bacterial species (so far!), in the genera *Borrelia*, *Anaplasma*, *Ehrlichia*, and *Neoehrlichia*. We are known trying to resolve the epidemiology of these tick-borne bacteria, including establishing their marsupial wildife reserviours, tick-vectors, and whether they pose a health risk to people and animals. In addition I am developing techniques to sequence the metagenomes of these bacteria by selectivley enriching mixed tick DNA samples from microbes of interest.
